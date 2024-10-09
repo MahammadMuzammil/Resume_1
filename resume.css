@@ -1,0 +1,52 @@
+.header{
+    
+    border: 1px solid lightgray;
+background-color: aquamarine;
+}
+body{
+    padding: 10px;
+}
+.profile{
+    height: 250px;
+    border-radius: 20px;
+}
+
+.discription{
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: bold;
+}
+.nextwave{
+    color: blue;
+    font-family: sans-serif;
+}
+.name{
+    font-family: roboto;
+    color: orange;
+    font-weight: bold;
+    font-size: 40px;
+}
+.skill{
+    color: red;
+    text-decoration: underline;
+}
+.skill-1{
+    color: green;
+    text-decoration: underline;
+}
+.skill-img{
+    height: 200px;
+}
+.project-img{
+    height: 250px;
+}
+.features{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
